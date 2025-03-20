@@ -146,4 +146,13 @@ Pour toute question ou problème :
 
 - Font Awesome pour les icônes
 - EmailJS pour la gestion des emails
-- Inspiration design : [KPETIGO Enam Cresus Credo](https://github.com/MAKORA-ltd)
+- Inspiration design : [KPETIGO Enam Cresus Credo](https://github.com/C0LLECT10NNEURdu7)
+
+## 🖇 Mise en ligne
+
+- Aller sur [netfly](https://app.netlify.com/)
+- Creer un compt ou s'enregistrer etc..
+- appuyer sur bouton site
+- pour ceux qui l'auront telecharger, faites un drop file
+- pour ceux qui auront cela sur github, connectez le au repot github.
+  # BAM DEPLOYER
