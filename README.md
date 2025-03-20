@@ -2,7 +2,7 @@
 
 Un template de portfolio professionnel avec un thème sombre et des accents dorés, conçu pour les développeurs et créatifs.
 
-EHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH..... ATTENDS ATtends attends... vas appuyer sur cette petite etoile. c'est important... c'est un ordre... stp 🙏 😿
+# EHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH..... ATTENDS ATtends attends... vas appuyer sur cette petite etoile. c'est important... c'est un ordre... stp 🙏 😿
 
 ## 🌟 Fonctionnalités
 
