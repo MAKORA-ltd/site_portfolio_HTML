@@ -1,5 +1,7 @@
 ## Portfolio Personnel - Template Moderne et Élégant
 
+![img](https://files.catbox.moe/q740i6.jpg)
+
 Un template de portfolio professionnel avec un thème sombre et des accents dorés, conçu pour les développeurs et créatifs.
 
 # EHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH..... ATTENDS ATtends attends... vas appuyer sur cette petite etoile. c'est important... c'est un ordre... stp 🙏 😿
