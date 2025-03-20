@@ -1,6 +1,8 @@
-# Portfolio Personnel - Template Moderne et Élégant
+## Portfolio Personnel - Template Moderne et Élégant
 
 Un template de portfolio professionnel avec un thème sombre et des accents dorés, conçu pour les développeurs et créatifs.
+
+EHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH..... ATTENDS ATtends attends... vas appuyer sur cette petite etoile. c'est important... c'est un ordre... stp 🙏 😿
 
 ## 🌟 Fonctionnalités
 
@@ -156,3 +158,13 @@ Pour toute question ou problème :
 - pour ceux qui l'auront telecharger, faites un drop file
 - pour ceux qui auront cela sur github, connectez le au repot github.
   # BAM DEPLOYER
+
+
+
+
+  Merci par avance a tout ceux qui m'ont supporter, c'est a dire moi, et je leur souhaite une tres bonne nuit.(toujours moi)
+
+  pour ceux qui voudrons plus d'informations ou de l'aide, rejoignez moi sur telegram ou whatsapp. (voir mon profil)
+
+  je suis disposer pour recevoir vos dons pour me soutenir
+   . merci 
