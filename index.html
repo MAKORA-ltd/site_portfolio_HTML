@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KPETIGO Enam - Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <meta name="description" content="Portfolio de KPETIGO Enam Cresus Credo - Développeur Web Autodidacte">
+    <meta name="keywords" content="développeur web, portfolio, frontend, backend, autodidacte">
+    <meta name="author" content="KPETIGO Enam Cresus Credo">
+    <link rel="icon" type="image/png" href="images/favicon.png">
+</head>
+<body>
+    <!-- Barre de progression -->
+    <div class="progress-bar"></div>
+
+    <!-- Bouton retour en haut -->
+    <button id="back-to-top" title="Retour en haut">
+        <i class="fas fa-arrow-up"></i>
+    </button>
+
+    <div class="particles">
+        <div class="particle"></div>
+        <div class="particle"></div>
+        <div class="particle"></div>
+        <div class="particle"></div>
+        <div class="particle"></div>
+        <div class="particle"></div>
+        <div class="particle"></div>
+        <div class="particle"></div>
+        <div class="particle"></div>
+        <div class="particle"></div>
+        <div class="particle"></div>
+        <div class="particle"></div>
+        <div class="particle"></div>
+        <div class="particle"></div>
+        <div class="particle"></div>
+    </div>
+    <div class="content-wrapper">
+        <header>
+            <nav>
+                <ul>
+                    <li><a href="#accueil"><i class="fas fa-home"></i> Accueil</a></li>
+                    <li><a href="#apropos"><i class="fas fa-user"></i> À propos</a></li>
+                    <li><a href="#projets"><i class="fas fa-code"></i> Projets</a></li>
+                    <li><a href="#contact"><i class="fas fa-envelope"></i> Contact</a></li>
+                </ul>
+            </nav>
+        </header>
+
+        <main>
+            <section id="accueil" class="hero">
+                <div class="container">
+                    <div class="hero-text">
+                        <span class="greeting">Hello, World!</span>
+                        <h1>Je suis <span class="highlight">KPETIGO Enam Cresus Credo</span></h1>
+                        <p class="tagline">Créateur Digital & Développeur Passionné autodidacte</p>
+                    </div>
+                    <div class="profile-image">
+                        <img src="images/profile-placeholder.jpg" alt="Cresus" id="profile-image">
+                    </div>
+                    <div class="social-links">
+                        <a href="https://github.com/MAKORA-ltd" target="_blank" rel="noopener noreferrer" class="social-icon" title="GitHub"><i class="fab fa-github"></i></a>
+                        <a href="https://wa.me/22897172729" target="_blank" rel="noopener noreferrer" class="social-icon" title="WhatsApp"><i class="fab fa-whatsapp"></i></a>
+                        <a href="https://t.me/badArchange1" target="_blank" rel="noopener noreferrer" class="social-icon" title="Telegram"><i class="fab fa-telegram"></i></a>
+                    </div>
+                </div>
+            </section>
+
+            <section id="apropos">
+                <div class="container">
+                    <h2>À Propos de Moi</h2>
+                    <div class="about-content">
+                        <div class="about-text">
+                            <p class="about-intro">Développeur web créatif et passionné, j'ai forgé mon expertise de manière autodidacte, transformant ma passion pour le code en véritable expertise.</p>
+                            <p class="about-detail">Mon parcours d'apprentissage autonome m'a permis de développer une forte capacité d'adaptation et une soif constante d'apprentissage. Je me spécialise dans la création d'expériences web modernes et interactives, en restant toujours à l'affût des dernières technologies.</p>
+                            <div class="skills">
+                                <span class="skill-tag">HTML5</span>
+                                <span class="skill-tag">CSS3</span>
+                                <span class="skill-tag">JavaScript</span>
+                                <span class="skill-tag">React</span>
+                                <span class="skill-tag">Node.js</span>
+                                <span class="skill-tag">Autodidacte</span>
+                                <span class="skill-tag">Problem Solving</span>
+                            </div>
+                            <!-- Bouton CV Flottant -->
+                            <div class="cv-float-button" title="Voir mon CV">
+                                <i class="fas fa-file-alt"></i>
+                                <span>Voir mon CV</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Modal CV -->
+            <div class="cv-modal" id="cvModal">
+                <div class="cv-modal-content">
+                    <div class="cv-modal-header">
+                        <h3>Mon CV</h3>
+                        <button class="cv-close">&times;</button>
+                    </div>
+                    <div class="cv-modal-body">
+                        <div class="cv-preview">
+                            <img src="assets/cv.jpg" alt="Mon CV" id="cvImage">
+                        </div>
+                        <div class="cv-download-options">
+                            <a href="assets/cv.pdf" download class="cv-download-btn">
+                                <i class="fas fa-file-pdf"></i> Télécharger PDF
+                            </a>
+                            <a href="assets/cv.jpg" download class="cv-download-btn">
+                                <i class="fas fa-file-image"></i> Télécharger Image
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <section id="projets">
+                <div class="container">
+                    <h2>Mes Projets</h2>
+                    <div class="projets-grid">
+                        <div class="projet-card">
+                            <div class="projet-icon">
+                                <i class="fas fa-book-reader"></i>
+                            </div>
+                            <h3>Dev-theque_Afrique</h3>
+                            <p>Plateforme web innovante en cours de développement, dédiée aux ressources et à la communauté des développeurs africains.</p>
+                            <div class="projet-tags">
+                                <span>React</span>
+                                <span>Node.js</span>
+                                <span>MongoDB</span>
+                                <span>En cours</span>
+                            </div>
+                        </div>
+                        <div class="projet-card">
+                            <div class="projet-icon">
+                                <i class="fas fa-mobile-alt"></i>
+                            </div>
+                            <h3>Applications Mobiles</h3>
+                            <p>Développement en cours de solutions mobiles innovantes, axées sur l'expérience utilisateur et les besoins locaux.</p>
+                            <div class="projet-tags">
+                                <span>React Native</span>
+                                <span>Flutter</span>
+                                <span>En cours</span>
+                            </div>
+                        </div>
+                        <div class="projet-card">
+                            <div class="projet-icon">
+                                <i class="fas fa-chart-line"></i>
+                            </div>
+                            <h3>Dashboards Analytics</h3>
+                            <p>Création d'interfaces de visualisation de données intuitives et performantes pour le suivi en temps réel.</p>
+                            <div class="projet-tags">
+                                <span>Vue.js</span>
+                                <span>D3.js</span>
+                                <span>Python</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section id="contact">
+                <div class="container">
+                    <h2>Contact</h2>
+                    <form id="contact-form" onsubmit="return sendEmail(event)">
+                        <div class="input-group">
+                            <i class="fas fa-user input-icon"></i>
+                            <input type="text" id="name" name="name" placeholder="Nom" required>
+                        </div>
+                        <div class="input-group">
+                            <i class="fas fa-envelope input-icon"></i>
+                            <input type="email" id="email" name="email" placeholder="Email" required>
+                        </div>
+                        <div class="input-group">
+                            <i class="fas fa-comment input-icon"></i>
+                            <textarea id="message" name="message" placeholder="Message" required></textarea>
+                        </div>
+                        <button type="submit"><i class="fas fa-paper-plane"></i> Envoyer</button>
+                        <div id="success-message" class="success-message" style="display: none;">
+                            Message envoyé avec succès !
+                        </div>
+                    </form>
+                </div>
+            </section>
+        </main>
+
+        <footer>
+            <div class="container">
+                <div class="footer-content">
+                    <p>&copy; 2025 Mon Portfolio. Tous droits réservés.</p>
+                    <div class="social-links">
+                        <a href="https://github.com/MAKORA-ltd" target="_blank" rel="noopener noreferrer" class="social-icon" title="GitHub"><i class="fab fa-github"></i></a>
+                        <a href="https://wa.me/22897172729" target="_blank" rel="noopener noreferrer" class="social-icon" title="WhatsApp"><i class="fab fa-whatsapp"></i></a>
+                        <a href="https://t.me/badArchange1" target="_blank" rel="noopener noreferrer" class="social-icon" title="Telegram"><i class="fab fa-telegram"></i></a>
+                    </div>
+                </div>
+            </div>
+        </footer>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/@emailjs/browser@3/dist/email.min.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
