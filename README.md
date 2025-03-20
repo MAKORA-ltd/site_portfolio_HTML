@@ -43,7 +43,7 @@ Un template de portfolio professionnel avec un th√®me sombre et des accents dor√
 - Remplacez `cv.jpg` par une image de votre CV
 - Remplacez `cv.pdf` par la version PDF de votre CV
 - Ajoutez votre favicon dans `images/favicon.png`
-(veiller a renommer les photos remplacants par les memes noms )
+- ps: (veiller a renommer les photos remplacants par les memes noms )
 
 #### Dans `script.js` :
 Pour configurer EmailJS :
